@@ -48,7 +48,7 @@
   font-family: 'Lato', sans-serif;
 }
 #msg-box3-d .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
   color: #ffffff;
   font-family: 'Oxygen', sans-serif;
 }
@@ -56,21 +56,22 @@
   text-align: center;
 }
 #msg-box3-d .mbr-article {
-  text-align: center;
+  text-align: left;
   color: #ffffff;
   font-family: 'Lato', sans-serif;
 }
 #content4-b P {
-  text-align: center;
+  text-align: left;
   color: #000000;
   font-family: 'Lato', sans-serif;
 }
 #content4-b .mbr-section__col .mbr-header__text {
   color: #000000;
   font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #content5-c .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
   color: #fff;
   font-family: 'Oxygen', sans-serif;
 }
@@ -80,11 +81,14 @@
 }
 #content5-c .mbr-article {
   color: #fff;
-  text-align: center;
+  text-align: left;
   font-family: 'Lato', sans-serif;
 }
 #features1-a P {
-  text-align: center;
+  text-align: left;
+}
+#features1-a .mbr-section__col .mbr-header__text {
+  text-align: left;
 }
 #ext_menu-g .mbr-brand__name {
   font-size: 16px;

@@ -56,7 +56,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">SERVICE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-e\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-a\">SERVICE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-e\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -203,7 +203,7 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
@@ -212,7 +212,7 @@
               "text-align": "center"
             },
             ".mbr-article": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
@@ -405,7 +405,7 @@
           "_anchor": "content4-b",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
@@ -413,7 +413,8 @@
             ".mbr-section__col .mbr-header__text": {
               "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
             }
           }
         },
@@ -421,7 +422,7 @@
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#fff",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
@@ -432,7 +433,7 @@
             },
             ".mbr-article": {
               "color": "#fff",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
@@ -512,7 +513,7 @@
               "name": "refresh",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "225",
+              "size": "125",
               "active": true
             }
           },
@@ -535,7 +536,7 @@
               "name": "extension",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "225",
+              "size": "125",
               "active": true
             }
           },
@@ -558,7 +559,7 @@
               "name": "target",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "225",
+              "size": "125",
               "active": true
             }
           },
@@ -581,7 +582,7 @@
               "name": "more-horizontal",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "225",
+              "size": "125",
               "active": true
             }
           },
@@ -635,7 +636,10 @@
           "_anchor": "features1-a",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left"
             }
           }
         },
@@ -748,7 +752,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">SERVICE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-e\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-a\">SERVICE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-e\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
