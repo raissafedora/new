@@ -19,7 +19,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "SynCTI NGS Platform",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -100,7 +100,7 @@
           },
           "title": "SynCTI <br>Next Generation Sequencing Platform",
           "text": "A platform built for synCTI-NUS researchers to empower their research with next generation sequencing technologies",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LOGIN HERE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SUBMIT NEW REQUEST</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_tags": [
             "Theme"
           ],
@@ -718,7 +718,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "Page 1",
+        "title": "SynCTI NGS | Getting Started",
         "order": 1
       },
       "components": [
@@ -810,7 +810,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "KNOWLEDGE BASE",
+          "title": "HOW TO",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
